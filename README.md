@@ -1,6 +1,6 @@
 # Do zero ao primeiro repositório no GitHub
 
-O GitHub é uma plataforma de hospedagem de código-fonte e colaboração em projetos de software. É um dos maiores repositórios de código aberto do mundo, onde desenvolvedores de todo o mundo podem armazenar, compartilhar e colaborar em projetos de software.
+O GitHub é uma plataforma de hospedagem de código-fonte e colaboração em projetos. É um dos maiores repositórios de código aberto do mundo, onde desenvolvedores de todo o mundo podem armazenar, compartilhar e colaborar com outros dev's. :smile:
 
 Um repositório é um local onde o código-fonte de um projeto é armazenado. Ele contém todos os arquivos e pastas necessários para executar o projeto e é geralmente hospedado em um servidor. O GitHub permite que os usuários criem repositórios públicos ou privados, o que significa que o código-fonte pode ser visto por todos ou apenas por um grupo restrito de pessoas.
 
