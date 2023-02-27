@@ -9,3 +9,10 @@ Os repositórios do GitHub são geralmente criados usando o controle de versão 
 Além de hospedar repositórios de código-fonte, o GitHub também oferece uma ampla gama de recursos para colaboração em projetos, como problemas e rastreamento de bugs, wikis, revisões de código, integração contínua e muito mais.
 
 Em resumo, o GitHub é uma plataforma importante para desenvolvedores e projetos de software de todo o mundo, fornecendo uma maneira fácil de colaborar, armazenar e gerenciar código-fonte. E um repositório é um local onde o código-fonte de um projeto é armazenado e gerenciado, permitindo que os desenvolvedores controlem as alterações feitas ao longo do tempo.
+
+
+
+Atualizações a serem feitas nesse repositório: 
+ 1. Criar uma página de "artigo" sobre como criar um repositório com Git/GitHub.
+ 2. Adcionar links uteis e bibliografia.
+ 3. Criar novo repositorio em inglês e linkar neste repositório (ou utilizar o mesmo).
